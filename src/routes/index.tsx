@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { createFileRoute } from '@tanstack/react-router'
 import { Box, Typography } from '@mui/material'
 import Instagram from '@mui/icons-material/Instagram';

@@ -9,7 +9,7 @@ import {
   Button,
   Paper,
 } from '@mui/material'
-import Share from '@mui/icons-material/Share';
+// import Share from '@mui/icons-material/Share';
 
 const Profile: React.FC = () => {
   return (
